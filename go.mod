@@ -1,3 +1,3 @@
-module data-structures-algorithms
+module dsa
 
 go 1.23.6
